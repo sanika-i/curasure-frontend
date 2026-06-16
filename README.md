@@ -32,13 +32,12 @@ CuraSure/
 ## **Setup & Installation**
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/sindorka/curasure-frontend.git
 cd CuraSure/curasure
 ```
 
 ### **2. Switch to `dev` Branch**
 ```bash
-git checkout dev
+git checkout prod-release
 ```
 
 ### **3. Install Dependencies**
